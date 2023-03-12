@@ -24,7 +24,7 @@
 Создайте файл с правилом оповещения, как в лекции, и добавьте его в конфиг Prometheus.
 
 *Погасите node exporter, стоящий на мониторинге, и прикрепите скриншот раздела оповещений Prometheus, где оповещение будет в статусе Pending.*
-![image](https://user-images.githubusercontent.com/124167007/224518208-9553c589-f87c-48c9-a8b8-240e9fc2e95c.png)
+  ![image](https://user-images.githubusercontent.com/124167007/224518208-9553c589-f87c-48c9-a8b8-240e9fc2e95c.png)
 ---
 
 ### Задание 2
