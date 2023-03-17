@@ -47,6 +47,9 @@
 
 *Приложите скриншот браузера с открытым эндпоинтом, а также скриншот списка таргетов из интерфейса Prometheus.*
 
+![image](https://user-images.githubusercontent.com/124167007/225804999-af1463d5-c6f0-4308-8ac6-bf0a2fb01b67.png)
+
+![image](https://user-images.githubusercontent.com/124167007/225805100-ed3e6a25-48da-43d6-95ea-7727f466acdc.png)
 
 ---
 ## Дополнительные задания со звёздочкой*
