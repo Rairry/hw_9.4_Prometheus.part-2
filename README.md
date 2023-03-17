@@ -35,7 +35,9 @@
 
 *Прикрепите скриншот Alerts из Prometheus, где правило оповещения будет в статусе Fireing, и скриншот из Alertmanager, где будет видно действующее правило оповещения.*
 
+![image](https://user-images.githubusercontent.com/124167007/225794799-f72c1c03-a39c-42c4-8441-c6a905c8bda9.png)
 
+![image](https://user-images.githubusercontent.com/124167007/225794830-757e442f-3e98-4136-9992-06a3237b2d8d.png)
 ---
 
 ### Задание 3
